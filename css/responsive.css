@@ -1,0 +1,610 @@
+/* large device starts */
+@media (max-width: 1199.98px) {
+    .navbar .navbar-brand{
+    width: 100%;
+}
+     .navbar .navbar-brand img{
+    width: 100%;
+    height: 97px;
+} 
+    #banner {
+	padding-bottom: 100px;
+}
+    #banner .banner-text{
+   margin-left: 170px;
+   margin-top: 100px; 
+}
+#about {
+    background: #150035;
+	transform: translateY(50);
+    transform: translatex(50);
+	 clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0 100%); 
+}
+    #games {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin .spin-text{
+      text-align: center;  
+    }
+    #spin .spin-text h4 {
+	padding-top: 20px;     
+}
+ #spin .picter-spin {
+	margin-right: 70px;
+    margin-top: 50px; 
+}
+    #tournaments{
+        padding-bottom: 30px;
+    }
+   #tournaments .tournament-box2 {
+	text-align: center;
+}
+    #tournaments .tournament-box2 .heading h2 {
+	margin-top: 30px;
+}
+    .accordion-button:not(.collapsed) {
+	color: #fff;
+	background-color: none;
+	box-shadow: none ;
+}
+   #tournaments .scorllbar {
+	text-align: center;
+} 
+    #payment {
+	text-align: center;
+}
+   #payment .subscrib h2 {
+	padding-bottom: 28px;
+} 
+    
+   #payment .subscrib h2::after{
+    content: '';
+     width: 1px;
+    height: 31px;
+     background: #0b001b;
+     position: absolute;
+     top: 66px;
+    left: 560px;
+}
+#payment .subscrib i{
+   margin-right: 50px;
+   color: #0b001b;
+   position: absolute;
+   top: 102px;
+   left: 720px;
+   z-index: 999;
+} 
+ #payment .payment-method h2 {
+	margin-top: 20px;
+} 
+    #footer {
+	text-align: center;
+}
+ #footer .links h4 {
+	margin-top: 40px;
+}
+  #footer .info .para p{
+	padding-bottom: 50px;
+}   
+      
+}
+/* small device ends */
+/* extra small device starts */
+@media (max-width: 575.98px){
+.navbar-light .navbar-toggler{
+	margin-right: 25px !important;
+    padding: 5px 15px;
+}
+    .navbar .navbar-toggler span {
+        font-size: 20px;
+          margin-bottom: 10px;
+    }
+    .navbar-nav {
+	text-align: center;
+}
+    .navbar .nav-item .active {
+	color: #c72ab0;
+	background: none;
+}
+    .navbar .navbar-nav .nav-item .active::before{
+    height: 50%;
+}
+    .our-modal {
+	margin-right: 65px;
+}
+    #banner {
+	padding-bottom: 100px;
+}
+#about {
+     background: #150035;
+	transform: translateY(0);
+	 clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0 100%); 
+}
+    #games {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin .spin-text{
+      text-align: center;  
+    }
+    #spin .spin-text h4 {
+	padding-top: 20px;     
+}
+ #spin .picter-spin {
+	margin-right: 70px;
+    margin-top: 50px; 
+}
+     #tournaments{
+        padding-bottom: 30px;
+    }
+   #tournaments .tournament-box2 {
+	text-align: center;
+}
+    #tournaments .tournament-box2 .heading h2 {
+	margin-top: 30px;
+}
+   #tournaments .scorllbar {
+	text-align: center;
+} 
+    #payment {
+	text-align: center;
+}
+   #payment .subscrib h2 {
+	padding-bottom: 28px;
+} 
+    
+   #payment .subscrib h2::after{
+    content: '';
+     width: 1px;
+    height: 31px;
+     background: #0b001b;
+     position: absolute;
+     top: 66px;
+    left: 497px;
+}
+#payment .subscrib i{
+   margin-right: 50px;
+   color: #0b001b;
+   position: absolute;
+   top: 90px;
+   left: 623px;
+   z-index: 999;
+} 
+ #payment .payment-method h2 {
+	margin-top: 20px;
+} 
+    #footer {
+	text-align: center;
+}
+ #footer .links h4 {
+	margin-top: 40px;
+}
+#footer .info .para p{
+	padding-bottom: 50px;
+} 
+    
+}
+
+/* large device ends */
+
+/* medium device starts */
+@media (max-width: 991.98px){
+      .navbar-light .navbar-toggler{
+	margin-right: -100px !important;
+    padding: 5px 15px;
+}
+    .navbar .navbar-toggler span {
+        font-size: 20px;
+          margin-bottom: 10px;
+    }
+    .navbar-nav {
+	text-align: center;
+}
+    .navbar .nav-item .active {
+	color: #c72ab0;
+	background: none;
+}
+    .navbar .navbar-nav .nav-item .active::before{
+    height: 50%;
+}
+    .our-modal {
+	margin-right: 65px;
+}
+    #banner {
+	padding-bottom: 100px;
+}
+#about {
+    background: #150035;
+	transform: translateY(0);
+	 clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0 100%); 
+}
+    #games {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin .spin-text{
+      text-align: center;  
+    }
+    #spin .spin-text h4 {
+	padding-top: 20px;     
+}
+ #spin .picter-spin {
+	margin-right: 70px;
+    margin-top: 50px; 
+}
+    #tournaments{
+        padding-bottom: 30px;
+    }
+   #tournaments .tournament-box2 {
+	text-align: center;
+}
+    #tournaments .tournament-box2 .heading h2 {
+	margin-top: 30px;
+}
+    .accordion-button:not(.collapsed) {
+	color: #fff;
+	background-color: none;
+	box-shadow: none ;
+}
+   #tournaments .scorllbar {
+	text-align: center;
+} 
+    #payment {
+	text-align: center;
+}
+   #payment .subscrib h2 {
+	padding-bottom: 28px;
+} 
+    
+   #payment .subscrib h2::after{
+    content: '';
+     width: 1px;
+    height: 31px;
+     background: #0b001b;
+     position: absolute;
+     top: 66px;
+    left: 560px;
+}
+#payment .subscrib i{
+   margin-right: 50px;
+   color: #0b001b;
+   position: absolute;
+   top: 102px;
+   left: 720px;
+   z-index: 999;
+} 
+ #payment .payment-method h2 {
+	margin-top: 20px;
+} 
+    #footer {
+	text-align: center;
+}
+ #footer .links h4 {
+	margin-top: 40px;
+}
+  #footer .info .para p{
+	padding-bottom: 50px;
+}   
+      
+}
+/* small device ends */
+/* extra small device starts */
+@media (max-width: 575.98px){
+.navbar-light .navbar-toggler{
+	margin-right: 25px !important;
+    padding: 5px 15px;
+}
+    .navbar .navbar-toggler span {
+        font-size: 20px;
+          margin-bottom: 10px;
+    }
+    .navbar-nav {
+	text-align: center;
+}
+    .navbar .nav-item .active {
+	color: #c72ab0;
+	background: none;
+}
+    .navbar .navbar-nav .nav-item .active::before{
+    height: 50%;
+}
+    .our-modal {
+	margin-right: 65px;
+}
+    #banner {
+	padding-bottom: 100px;
+}
+#about {
+     background: #150035;
+	transform: translateY(0);
+	 clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0 100%); 
+}
+    #games {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin .spin-text{
+      text-align: center;  
+    }
+    #spin .spin-text h4 {
+	padding-top: 20px;     
+}
+ #spin .picter-spin {
+	margin-right: 70px;
+    margin-top: 50px; 
+}
+     #tournaments{
+        padding-bottom: 30px;
+    }
+   #tournaments .tournament-box2 {
+	text-align: center;
+}
+    #tournaments .tournament-box2 .heading h2 {
+	margin-top: 30px;
+}
+   #tournaments .scorllbar {
+	text-align: center;
+} 
+    #payment {
+	text-align: center;
+}
+   #payment .subscrib h2 {
+	padding-bottom: 28px;
+} 
+    
+   #payment .subscrib h2::after{
+    content: '';
+     width: 1px;
+    height: 31px;
+     background: #0b001b;
+     position: absolute;
+     top: 66px;
+    left: 497px;
+}
+#payment .subscrib i{
+   margin-right: 50px;
+   color: #0b001b;
+   position: absolute;
+   top: 90px;
+   left: 623px;
+   z-index: 999;
+} 
+ #payment .payment-method h2 {
+	margin-top: 20px;
+} 
+    #footer {
+	text-align: center;
+}
+ #footer .links h4 {
+	margin-top: 40px;
+}
+#footer .info .para p{
+	padding-bottom: 50px;
+} 
+    
+}
+/* medium device ends */
+
+/* small device starts */
+@media (max-width: 767.98px) {
+    
+  .navbar-light .navbar-toggler{
+	margin-right: -50px !important;
+    padding: 5px 15px;
+}
+    .navbar .navbar-toggler span {
+        font-size: 20px;
+          margin-bottom: 10px;
+    }
+    .navbar-nav {
+	text-align: center;
+}
+    .navbar .nav-item .active {
+	color: #c72ab0;
+	background: none;
+}
+    .navbar .navbar-nav .nav-item .active::before{
+    height: 50%;
+}
+    .our-modal {
+	margin-right: 65px;
+}
+    #banner {
+	padding-bottom: 100px;
+}
+#about {
+    background: #150035;
+	transform: translateY(0);
+	 clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0 100%); 
+}
+    #games {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin .spin-text{
+      text-align: center;  
+    }
+    #spin .spin-text h4 {
+	padding-top: 20px;     
+}
+ #spin .picter-spin {
+	margin-right: 70px;
+    margin-top: 50px; 
+}
+    #tournaments{
+        padding-bottom: 30px;
+    }
+   #tournaments .tournament-box2 {
+	text-align: center;
+}
+    #tournaments .tournament-box2 .heading h2 {
+	margin-top: 30px;
+}
+    .accordion-button:not(.collapsed) {
+	color: #fff;
+	background-color: none;
+	box-shadow: none ;
+}
+   #tournaments .scorllbar {
+	text-align: center;
+} 
+    #payment {
+	text-align: center;
+}
+   #payment .subscrib h2 {
+	padding-bottom: 28px;
+} 
+    
+   #payment .subscrib h2::after{
+    content: '';
+     width: 1px;
+    height: 31px;
+     background: #0b001b;
+     position: absolute;
+     top: 66px;
+    left: 497px;
+}
+#payment .subscrib i{
+   margin-right: 50px;
+   color: #0b001b;
+   position: absolute;
+   top: 102px;
+   left: 637px;
+   z-index: 999;
+} 
+ #payment .payment-method h2 {
+	margin-top: 20px;
+} 
+    #footer {
+	text-align: center;
+}
+ #footer .links h4 {
+	margin-top: 40px;
+}
+  #footer .info .para p{
+	padding-bottom: 50px;
+}   
+      
+}
+/* small device ends */
+/* extra small device starts */
+@media (max-width: 575.98px){
+.navbar-light .navbar-toggler{
+	margin-right: 25px !important;
+    padding: 5px 15px;
+}
+    .navbar .navbar-toggler span {
+        font-size: 20px;
+          margin-bottom: 10px;
+    }
+    .navbar-nav {
+	text-align: center;
+}
+    .navbar .nav-item .active {
+	color: #c72ab0;
+	background: none;
+}
+    .navbar .navbar-nav .nav-item .active::before{
+    height: 50%;
+}
+    .our-modal {
+	margin-right: 65px;
+}
+    #banner {
+	padding-bottom: 100px;
+}
+#about {
+     background: #150035;
+	transform: translateY(0);
+	 clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0 100%); 
+}
+    #games {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+    #spin .spin-text{
+      text-align: center;  
+    }
+    #spin .spin-text h4 {
+	padding-top: 20px;     
+}
+ #spin .picter-spin {
+	margin-right: 70px;
+    margin-top: 50px; 
+}
+     #tournaments{
+        padding-bottom: 30px;
+    }
+   #tournaments .tournament-box2 {
+	text-align: center;
+}
+    #tournaments .tournament-box2 .heading h2 {
+	margin-top: 30px;
+}
+   #tournaments .scorllbar {
+	text-align: center;
+} 
+    #payment {
+	text-align: center;
+}
+   #payment .subscrib h2 {
+	padding-bottom: 28px;
+} 
+    
+   #payment .subscrib h2::after{
+    content: '';
+     width: 1px;
+    height: 31px;
+     background: #0b001b;
+     position: absolute;
+     top: 66px;
+    left: 497px;
+}
+#payment .subscrib i{
+   margin-right: 50px;
+   color: #0b001b;
+   position: absolute;
+   top: 90px;
+   left: 623px;
+   z-index: 999;
+} 
+ #payment .payment-method h2 {
+	margin-top: 20px;
+} 
+    #footer {
+	text-align: center;
+}
+ #footer .links h4 {
+	margin-top: 40px;
+}
+#footer .info .para p{
+	padding-bottom: 50px;
+} 
+    
+}
+    /* extra small device ends */
